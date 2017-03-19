@@ -239,10 +239,8 @@ def main():
   canvas = Canvas(root, width=320, height=600)  # Инициализируем Canvas размером 300х300 пикселей
   canvas.pack()  # Размещаем Canvas в окне нашего Tkinter-GUI
   highWay = Highway(0, 0, 320, 600, "#FF8")
-  lighter1 = Light(0, 280, 40, 40,"#F00")
+  lighter1 = Light(0, 280, 40, 40,"#0F0")
   lighter2 = Light(280, 280, 40, 40, "#0F0")
-  lighter2.update(1)
-  lighter2.update(1)
   road1 = Road(40, 0, 40, 600, -1,"#888")
   road2 = Road(80, 0, 40, 600, -1, "#444")
   road3 = Road(120, 0, 40, 600, -1, "#444")
