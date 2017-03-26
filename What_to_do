@@ -1,0 +1,6 @@
+1) The program starts good, but in course of action begin to a little freeze with fpsdrop. Need to find solution.
+2) Drivers now CAN NOT change their roadline. This sucks. Need to add option to change line.
+3) Ashot or Hellrider is not behaved.
+4)Colision dtection can be bad, really.
+
+In this point the program is just good-looking road simulation without any conflicts.
